@@ -6,6 +6,8 @@ The goal was to design and create a tool or object of our choice. In my case, I 
 ## 🧩 Parts Designed
 The design was broken down into individual components required for its complete assembly.
 
+<img src="Rendered%20Images/Fully%20Assembled%20English%20Wheel.png" alt="English Wheel" width="50%">
+
 - **Main Frame (C-Shaped)** – main support structure
 - **Clamp/Mount Bracket** – Allows the tool to be fastened to a table
 - **Top Anvil Holder** – Holds the main rolling wheel securely in place while allowing it to rotate smoothly and align axially
