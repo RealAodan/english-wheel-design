@@ -13,3 +13,6 @@ The design was broken down into individual components required for its complete 
 - **Upper Rolling Wheel** – Primary forming surface
 - **Lower Anvil Die/Wheel and its mount** – Provides a specific radius for forming sheet metal into various contours
 - **Crank Handle** - Allows manual adjustment of the lower anvil height by converting rotational force into vertical movement via a threaded rod with a handle.
+
+## 🙏 Credits
+- This project was completed as part of an evaluation for **Professor Robert Vincent**'s Technical Drawing course at **Marianopolis College**.
